@@ -1,5 +1,4 @@
-# CLOUD-DATA-STORAGE-SERVER
-# Lab 5: Build Your DB Server and Interact With Your DB Using an App
+# EX-4 : CLOUD-DATA-STORAGE-SERVER
 ## Name : SURYANARAYANAN T
 ## Register Number : 212224040341
 ## Aim
